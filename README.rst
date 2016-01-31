@@ -31,3 +31,4 @@ Credits
 * secball.gb.z80-gb: *ubitux & wisk*
 * test0.elf.avr8: *François L.*
 * test1.elf.avr8: *François L.*
+* clr.s62.st62-original: *Karl Vogel*
